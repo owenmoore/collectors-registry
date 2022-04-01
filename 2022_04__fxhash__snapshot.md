@@ -1,0 +1,267 @@
+# April 1, 2022 | fx(hash) Big Burn Wallet Snapshot
+
+I released 5 projects on fx(hash) during their beta period. Each project was under the `MVA Study Series` label, in which I would conduct a peronal study of a particular technique and charge `1 tez`; both for personal education and to study the market's interests. When the **Big Burn** happened, I took a snapshot of the wallet holders and how many tokens each held.
+
+At the moment, I'm simply recording this as data to analyze and reflect on, but would like to work a reward into future projects that I may release on the Tezos network. No guarantees though if you're a collector reading this!
+
+## Snapshot
+
+The following data captures totals across all 5 projects
+
+Tezos Address | Tokens | Username
+-|-|-
+tz1NxcCsoMUydEe5UeFnKaQby74Xiw18B6Ji|10|SNS_
+tz1dnkBqmKSKjSYaP8NuqjtCs9K39ExPgdTG|4|danimalXTZ
+tz1gc62MRuz38QCtmpUNaEQEwu5CUEXKWJsc|1|Dreamsll
+tz1SG28bggiopdfNcjbhtHkrFjze4wj9K3ke|1|--
+tz1iCG8Q6HdpoFhpRvHKkRqFJte9Fn5Bm7gY|6|--
+tz1QSxDeUy6YQZj9Q9HZ5couvThGX8Qu7RzY|15|Boolaroo
+tz1iN7EowDcR9RYg1stkk9KJkBQqUZoeorPx|2|NFT_Dream_2
+tz1eHzJ4y6UeTgarph5hXfTgu7Zb6xmVPA4o|11|LovingKindness4U
+tz1M3XidTqjsBwGnVTSL6mykfAsgroeNc4nA|1|TENGIL
+tz1V6YfNEZdyDstDyJRkw52F5CUidMrX1iwZ|1|Rose Jackson
+tz1NZnfrNgCGdECyAhA93TLPTSciJcZBJqDY|1|--
+tz1Y9HHJpZBQdm6xvf9C1nzQYKAU5kifqZLs|10|calicojack.tez
+tz1PoDdN2oyRyF6DA73zTWAWYhNL4UGr3Egj|2|ciphrd
+tz1Q64UruC5uMhK6TfnYWSVcoapBbXM4QMp9|3|Tiller
+tz1ajbUoguHiipVftY865tu8r1aRYEVWMKZz|1|Post-American
+tz1TgPtm8EPbLMVP8yCz1ptrTM7X3BxdQZrZ|4|--
+tz1XtkVwKTHmJGYrKrJsPJMvyobf1o83tUwW|3|ascii
+tz1QjzQd8AuAbLKLa9Jp7bYp3gPrrTsHxDSe|6|--
+tz1i6QrhHj55CaoELHe9peHF8x7dfSxDJeBv|2|AgapeEudaimonia
+KT1FvqJwEDWb1Gwc55Jd1jjTHRVWbYKUUpyq|3|--
+tz1URdJTzHC53TqMQDMn39HpLnpCMGCKotes|3|koatz
+tz1X4b5npJg4Yms7VYoYp4MsQobE5MKJ3aCi|1|--
+tz1iQiM74SurSjZRJZMDrZYUoFT5A4ax16hN|1|Polyforms
+tz2F8mXwpLLFQct6ANsV4b8yDSU1XVk3jxXu|2|Anthony G
+tz1XrutuvkFRG15HmV2gdon86F38NMMGMAXr|2|markknol
+tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK|2|rudxane
+tz1XjbEZZU13QPWnpPYQvSvf691TDcF7YQx4|2|kylo.tez
+tz1LnqvCxabMfhfoqwYcC5ZzefV4VNuj58a2|3|thirtythree
+tz1T4G5LC62nzVsvZjUwDdEFGyWjmdY745cv|2|--
+tz1QYUdmH3UdWzNqV9RQBjfzbrSUWcJ28wUb|1|radarboy3000
+tz1XBAp7qeZ5fWqVnVFzZHuHc455L1xrw841|1|Kelly Milligan
+tz1fgQgnq7itzJXL3Nvx6GLsyNfrv2ofDt9i|1|cormac
+tz1LzwRBXrZMsz1TiCZGyAcaJgM71q7Yaj16|3|NukCZ
+tz1ipr8buqpZFK2JSvMAqkqTA8PWAca69xCk|3|feno
+tz1PED5DM65jdgsF7osTdg5VyLhmgPuorBp1|2|Oliver Sin
+tz1SREjxzP3Eycw4XSDzgdMMZrys9pUidJzr|2|Available
+tz1Nf9zKzR4JFuZ2UtwXB9e2PKqMwVyu4eEq|1|nftnova
+tz1dV7FpF25aLv22sjiDksmFGye15J8zrVxV|14|--
+tz1fdv4qjH467zGFJycBA1wX7kXgMdKSHfeq|1|Remy
+tz1gH5qBndFDibwQ1jyZ3QDGcm35qYD7ndru|2|Brendon
+tz1TQ3Gi42BHwJvNCDLGFVXxYcn4p9AkrvRC|1|fdoganis
+tz1PDvJfTWagz9KnUZ8TCcbwU77WKUh6vfAY|4|Master Yin
+tz1gQyvkV8ofzcRjUhancM47wK8MuHz6Thzf|1|ballislife.tez
+tz1LrJ318RRULKZUp1xgyBQdo6LyjZWvqhdz|1|--
+tz1PNsvFRoEbpr8wbs7dhwoPAfNe9aDZ7XNo|1|Klebber
+tz1RuLk5aT5aB4eZQx2B34ERSTjvyETTL3me|2|--
+tz1Q3TTbr7EPkVnD7FXdEaxFeB48NmELaEaz|1|liquid
+tz1UuLqvAoEWNo9iMDnCZvZgQgf9JWQoxZ9a|2|jpl4
+tz2DQrkscf5aRVydqp81cuzfFvzutUNgruuM|1|Mehak
+tz2SM2qp42H8kQchmfvexZ6G8qUHBXUbr4zK|1|mithrandir14
+tz1fGiwg6RdPFw4MCo5MJxn3VMBjJd3xXhmS|3|JohnAstor
+tz1UJ3k1mbYeNm9e1PyuFaSt597zuYPv79Ec|1|Birkhäuser
+tz1fxNoz8iUWs65Nm2Y4iYWbk3Y59ktzzpra|1|Formerly Known As
+tz1NmSuYH2DkJZt4zFZLydai9cXWdvQffcbV|1|--
+tz1fpFdRwhLLoKnYzMsZaw8mTL9QJMdyNwbH|2|--
+tz1agchaEF9EK3ARhHDeKTQFBzw4CjNkHKEJ|1|kompakd
+tz1hBj1DeT6pFhTkU1yVtmsJ5Lb2fUvXuWXV|2|--
+tz1PkLH6efZifS8NtKiZBWFWgDoHDmDwN9f1|4|Honest
+tz2MBh8SCEwqQckxDpa3WcfQpXMNN6zKw1J3|11|TyePo
+tz1Nbgg46KKQVGt2itPZYARPfcgRQq11HSTp|2|Gothbread
+tz1bUbDkCRg5uEikyi5nNPkuePd4tt5uKJzY|3|--
+tz1bgrunkWBB6gnBLywU2eKqvMCeevvTgxaQ|1|kgl_nft
+tz1MwgPYtc8uccvYgEH4gixazzLLgayRipze|1|ripze
+tz1aYYyUBJHig8KvtYkZrH8ipceQ5P4HxUvQ|2|eddietree
+tz1XT3ncKE9KRzn2qWFmcG3Fg5hAhtKUF8hU|1|--
+tz1Ms3JA2ZUSBNKqVABoGpeg3gv2e685XWvf|1|evilnft
+tz1chg2T1s4DTjLqthPc49HDcqkFHMwdSPwb|1|Kobx
+tz1ZuNutHuD7YH6okGoH6ginvHNQr4hiW1PW|1|baiwei
+tz1WwLpnjMbjfQEmUpExC8wqNuZP5vTjYqgS|1|TeNinEight
+tz1iRqK5KtJb4ViB1GVdJUaAoBxwt2q8grDe|2|the world is yours
+tz1ZUGya56EHpDJJGZ7R1QLb2YA5nRQhcGa3|2|--
+tz1Zx9RdXSRWtS8zPHveQ9cyhp63NivMB8Vo|1|Crypto_eve
+tz1UxAGwhB5jz7sBtCeECbJ8Pt1yL2UZUV64|1|--
+tz1MZLessK2eMqiCMxLHWsKHWpWcKHg2YjYf|1|WizardX
+tz1YxAN3rn85UQxevF7w78v66xHnSQQByo2j|1|MihailGreen
+tz1iX5wMrjqGZJacfYoxCdowBQs9u9hskpbj|1|--
+tz1gMDphxYPFEXqLY3qLyfDCfPa2SsPQYZzp|1|KingJesusArt
+tz1Trg6npgauME1Nb8zkkv7xv7sBdboNUFPP|2|--
+tz1hXiUiNfwt9YzjDHkiKtA91g9fXa5rMAE2|1|TITATU
+tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG|2|K/ddö Ä
+tz1TurTKk9Piv36Cxqecg5v35RKY5ww8DSNu|1|--
+tz1hbCu1oDSphkD9P7R2QzXxqbRj1wAG5h2p|1|Sausage
+tz1M5QPtZ6WLTkotfonH6QXNpncjUudVmTWN|1|DocSciFi
+tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB|1|¢ÃffTT¢OCÁBÃ
+tz1Qvc8ocPr2C1UuwyAH1uaXvDiFxWWDjXHo|2|Littlesilver
+tz2Av44FPRmpxkTvLstFSF61YpvDf18qVPAZ|1|--
+tz1iYhWjLJs9HrDX7jGyZVeHt5m8vr7N4qxV|1|--
+tz1efE5D1Da2S2hbRPpcrZpMeacXJYmCgBJb|1|--
+tz1NZVZ3yANgxGRyY2KrRYq9Hw2RM2t4e2Vs|1|JimmyTheGhost
+tz1XAivmYefSRJGWX9sG8wJmAwdihhaLJ8fa|1|arva
+tz1UjdTcUwAkAwDgAMea7NxbtZizeGjwLVqi|1|darkpencii.tez
+tz2S48ZY19sJXSSXighUjuXWiqMszWMcMf16|1|cocktoid
+tz1TYyoSGug8bTmFASWNYGsNfJDwmEeGCT33|1|GCT33
+tz1iBDR3wL382oWjfaVWBPT99VxWTUJaVJRg|1|--
+tz1cd8EPfy73UBthRtPUHnveEd9aoUbiQM3S|1|--
+tz1Vb9N4BW5uNB3NC1b6rm4MZrUBGKhjsC1r|4|--
+tz1R8Ms9rERJmWKoCWoz2yx4Eg8Ldz4pruLy|3|Fatboy
+tz1YBKKPnH14x1qKfZHkpnSUWJwUqvKMi6pX|1|PalaceTing
+tz1PnoxETN2uVxkoca6SgMPvhFzjtwBwhXAs|2|owow
+tz1U3YJZ1pFfkaUWZVWv7FvNyiUi5vKYG696|1|--
+tz1VLc4whDbEFqCxFvBPYZwwpD2TNtugFYQm|2|MAGiK Scrolls 
+tz1hn65zdR8rXWT9Xqme9P4Nfx1DDNAjhqDi|1|trez
+tz1fPtXpoqSDgSeHeX2q5BLg9sC3KccZ5Kd5|1|--
+tz1Z9F6akA65CENtqsRw8cKrb7AR9c1NCeer|1|egaruok
+tz1TtUyR5URy2rGZS9pV8JT8TuhixiEPf3xF|1|--
+tz2EmYGvZpE9v3sEMBiBYDWXirXG1ciFrMqe|1|theSKinney
+tz1ZrG5eSR5Pw88wJ4Ke5QKRyR24dLv8zJ2Z|2|capitan
+tz1h7BrSLrSUEGN8UJDj7xujxbXn91oorDzf|1|sukoneck.tez
+tz1PqU9BQ5rrP981rE846BdaoBAa2q1ysYbb|1|--
+tz1RB3poJD9r5cLXjzZPJ2RuR8eeLYWXMLDN|6|Ethspresso
+tz1LwHHzSP3oX4Lwpf2oPD52tViuxGCjCZQv|1|Echevarian
+tz1Te1K3c4URH7cxMeoNe7kaGXhAkKdCrG9A|1|--
+tz1RHpMrqC2GbAvEfVYVU97HZyDrrEFfN23c|2|ComeOnAvoca
+tz1LgJszCAEdLmmjyVdKzTPAv48ZtEigY1cS|1|--
+tz1RiTAgQFqhXU9c8cntLgaY6KPhSNubYWF8|1|--
+tz2MgpiRm5NB1rpGf5nCURbC11UNrneScoot|1|pixelrich.tez
+tz1NHBtDhXUxRbZVnwQurjrVeghRzDqthQ68|4|tz1Q68
+tz1dW9QXydD28arnVXC4YZFLMEdQsJbrRnxM|4|UpOnlyFan
+tz1inuoFMXxFd4Ka8ozZAEq4hqwD25UJ3Et6|1|Element
+tz1hsC7LKroo96tCZhiZwvcmi2RwQ7gfzdc1|2|NftEconomist
+tz1ivPazCcMa38ZPE3vwewietTzLeYTWau2Z|1|--
+tz1MXKnRPXg9FwUNQ9nbv6Cxn8HaQrZ7H7xs|1|bagholder
+tz1cyfd8YLyDRBAS7uWYZHXLKnLwpPzoYbmY|3|Jason Paperhands
+tz1SiCWyWwGx6tQUEpr2jZapM9jeUnXiPfuE|1|--
+tz1ikTiMLgcKbrycPhnWpyh3CUUtfSUebrus|1|--
+tz1h8x4KWAkChHyGVZTty835W2midXRFN5sQ|3|Champ
+tz1c9vgUPbLW7Hgw3GE1Hshh5VGtRBJ24vCY|3|mogesvault
+tz1iXu4QmP2AoxGGeJNwW8FsxgJK1rMahQbY|1|PapaRarePepe.tez
+tz1aLwJpDnpYUvjP72r3Ldanq3kg4GwoWGBR|2|PapaRarePepe_Vault
+tz1c4QupSyjxgsgd7tZTnyBgPKrGbEPjVRkZ|2|ahoNFT
+tz1NhSkQqRzWxxHi75zrxJovUXAjboGZkf6q|1|Mamiya
+tz1SGm8PKtapeQ5NDrjHjLQahcAkYV5afJBh|3|SCLarge
+tz1U6QbH4G7RbM4y2wqJRqaT4jDJiwHBC87G|2|crypto_lalo
+tz1Ym9Ued9v2N2wwsrtQ52HRGGn7qDmzuUZU|2|chris
+tz1gNkXd86BcjRkmx7YXS4DrXK2YoxhTA4NX|2|dylanstrauss
+tz1SvJbECAva9gxczfBmX3CAFUszgQXNgsNm|2|P1x3lboy
+tz1Yui9iNeobhKE26bojuKxtqhyc69FVazwG|2|importerxporter
+tz1KhiFKMdKeLdBmuV6qmzpP4Jp8v7u6cDft|1|--
+tz1MLmisG7WCXCjNR9zwq3VwXiHSsHZo59mw|1|Borrito
+tz1L1XwcVmD2z4qPfLtBJ6RPThgAwLcXG6kW|1|klaus
+tz2HGRJfqNfN3UyPojuVpTfH8p4wA8otjy6L|3|--
+tz1bnWUvcfU77EBpbLUQ41c3hCBKovGuqyGY|1|KRANKARTA
+tz1To7j5MHj4vjquGYdbASX4tZnstNgpsE9x|2|Billy McSmithers
+tz1VgmGm6exAwRCQyn6nnf1WN9KEcjeuRRM8|1|lawa
+tz1eLzLWBK1qc3eMAH3y1TS3W7tbqEq81xMM|1|bitverse
+tz1VCc6EZeD3FkcxVvaVJjZVuFU9ozTQkSfD|1|Tokens of Affection
+tz1Lf3aAFLG6omKsqr2ofRGRpJ9xBK1VPt7A|2|grosgg
+tz1ccXwq87b1hNktXprs3GZ2BXpaF2KTPAXS|1|--
+tz1RQGDzn1DTncdTsFRsDwfaC3NJG59XS7yB|1|paraux.tez
+tz2EZC7yLhS8uf4U66XfNzimP1pdeiSTNGXx|11|edvvard
+tz1VymPMaRnZDWojxs1puBgtJjLGKxnTpcS3|3|g=CGCv
+tz1SNpPrhJ6dG4XjoLZyX6UCGh6pTHyA2NeN|8|moges
+tz1ZCXNCei8rMpGgxBmvyAk1GFdZTnh7Jx6V|1|--
+tz1X4fwe8h6TcjpZLBe4iprpvDBhRGFkTuSz|2|--
+tz1L28qvaAU3CmZViWVjnRzAh83gUNZQPsTF|1|Malcolm Levy
+tz1MoSBkCDVHPBNuTeGf7v9WxqiEWyv3jLaF|1|RobiNU
+tz2QF6C56ctVjbPsKNMCobKCY9RhF3fBGmFo|2|agent004
+tz1U9ZoiU5HRvQD29kjK1roSUiLDamMrjDJ9|3|pale kirill
+tz1Y1qNfDq6SUb1bPYGgNAjaibnPgYXkF3x1|1|F3x1
+tz1PdyMfZRRvnXXZgUQykZ1nvjctUg52gfBR|1|--
+tz1XJDXNHNmdeuqCsqRzvPXBh7GTbSz75oGB|1|--
+tz1evESgAfKJKHHiuD9XLkUJwN7JWvLwumac|1|Potato
+tz1Uf1oTEXP75PQDkkgBYh59F1e4LAHakTTA|1|--
+tz1LrQZuDuGrtozMZxhwQAZjdqJjXHPxVja8|2|Liam Egan
+tz1ZU9H2SsJ64DkY4YMcYoBw9PoBgZnD2nfJ|1|Annow
+tz1ZEQdzi2YnSvFkzAPhKhaBK6nwWMDgRzsX|1|--
+tz1SbFwEWf41UGYNqAfHLoY3bJ42tWRwpR66|1|theycallmeo
+tz2LQg9NqXfgyMVrihTwzzXfUVdZTnmxpYts|1|Juhani Halkomäki
+tz1hQ8BzTVwssUGQFinLQGfc7TKuMdeX6uQW|1|@nftartcards
+tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt|1|aebrer
+tz1PrkmEYJKku7ysrBBbEfaxTL3AR9wPHun2|1|--
+tz1edBUkgXa7sRkiUcuhMN56q33oprGs6FM2|2|crunk
+tz1adhiRtf9AfRiFbKypm7bmnSk6DhfxauL3|3|--
+tz1McVAjR9YULDNWTUpSKtutjYCWzfKFF7h9|1|--
+tz1fUAh6JipGw6PYjjFPpu3jXLHhPKhrgmYR|1|zchwtsn
+tz1fbraZ1hNsuX3QBLMMZRwRbPZQdv5jzSLY|1|Cooper Jamieson
+tz1VmZyzx1mMvhNtP7yWVcGr2Q5qJ3ghqeZB|3|PoDogson
+tz1U2k1rW4isR96Kk2cqd95Ypw2DXgnhDrD2|1|Bzzhg
+tz1Rnhu6UZ9STAZHLJHE1cXLMTd9Vvai1mF3|1|JKTN
+tz29rT6LwCuZcyxkJ3mNvFNSRBryfxnPZqJW|1|Cyril Diagne
+tz1YinhT4JT3ngF9pMYBySNVrWDYhLNEfsYE|2|code2pixels
+tz1hx7d1qWCHkSDy6HXVmZRzWvpNMHxSNvuC|3|1mpo$ter
+tz2B8WipbmLCvaFbg3fsJ4Gn4eQG7FESmoV9|1|--
+tz1d9AdUJdLpfKsvxKNsD1pQf6wuZjNR1RvJ|1|vhs1183
+tz1aDWHZvGHeUzJrRhjVK3H7AnPSK2GZFZ1y|1|AaG_
+tz1T9qkKY2J8xhYSfvhPL2B8eQUXYHMxQahE|1|Frenzy
+tz1TQBc611AxRGGrh856ksnWAvCxCi26dBXm|2|--
+tz2VqSYLt2pEwCXrNtiKXB7BKsbhxdCaEXBe|1|magnetic_pole
+tz1h3ca9zaSo62fECYDbDHmhejkQYVxArv5r|1|M007
+tz1fgGEbMGjT2AZF5XktYztVb5QUPkLLZehr|2|Tatlee.eth
+tz1VCzv11FjFjMyQKy44iyCU364S2y9PqYko|1|Togru
+tz1Npi14ixTrWbmNo2uKzcoUqk3dyZr7qwBT|1|Palito73
+tz1fPnqswm41oEHUWdSDn3KSvq3KCXVNeFCj|2|PlatonFxHash
+tz1e2JfJR934E58Xa9FFR3dVoiMKH4AT1iji|1|Volatile Moods
+tz2QjMesLP67RHKc6mQPgYchiaKzEam3kSPk|1|--
+tz1PfQDUD9UWGJ2hqHRttJU5wVtxrnPwBRa1|2|Xeronimo
+tz1WEHHVMWxQUtkWAgrJBFGXjJ5YqZVgfPVE|1|--
+tz1KgMUDdAYbvzMvyVoszX8Zmz9e6dYXNn7m|1|eviltypo
+tz1U72EG4beo6ZztyheWMQ4tKR2EqjPYTBoq|1|Aranya
+tz1L7PKjPqQUfNSR5wD8cFBwMCiwydFBKjMm|1|4d3d3d3
+tz1KrEvkq7FxezBaVagRKrhKsH5jVrRv8QjH|1|beside
+tz1LGRo4e3ke7kiCvJHGtmQSfPvLK5zhEHAR|1|Chris McCully
+tz1XBuBrXhvLqG4YXXWE6z7bZyU7Mx6F2fiu|1|Hallow
+tz1gYwgGhpxjt4po3f53P1t1sS3osPondHwW|1|lomz
+tz1YokFzMR1hX4m4aBqgutxLSUKFDdNoYGEN|4|Ryan Thompson
+tz1Ty3zxPSKtDbb532h3UKWff4SRG99BU26L|1|mobotato
+tz1aNZttacWt7Q2kmvDnLjXkxC27MnigTZtV|1|DistCollective
+tz1SwPEJujF92YxKeFgquBc5zMAKfpjF9F7u|1|tammas.vault
+tz1bafXvnKt87p1yXPV3vvVpe6gyD7BCdjyh|1|ArtistJohn
+tz1Y5e4BA6GHxZQJmJRCvTrJGcyEqJERMqLJ|1|sound
+tz1Xa6JTLubRcXrVyN94CyVjjbuRrxrneApS|1|--
+tz1hwNo5K37hEKA2tdzHjpGQZwVNijtrrRKr|1|Purz
+tz2Pwg7xaofYzBYGSbycTFQShTJ6PHHUnhrS|1|Berni
+tz1PWJAgiCVf56EU6GnPhvtuMTKXXQfVkoyg|1|Cryptophile.tez
+tz1S3KEPAnYbQodV11YSBaSbBGFUkzUF5hPC|1|Patrick Lawler
+tz1VnepzAtPKpQhC4jh9cCbxhXwFKTQxrhzZ|2|Lammetje
+tz1i8vkSiZe5nrfomJGsd1WLC97Z4RuMwcgv|1|huqa
+tz1LthmmHuQAEAKQ9GBC5xS4mhzrKxrWNado|1|fabax
+tz2WoHgA1HrQnp8Z2rTu7hv1a7AoXtBpLVdD|1|voxeljunk
+tz1cv9FVELwxZZj7fqDhz81oBhNBv6ARAzSE|1|mploj
+tz1RmAYvq7GqkoBZP7zNEpQ1inR3S4hsPhTL|2|--
+tz2RU4H1XidHiTSs71TmYT1GywmaKgfeQujQ|5|Softcity & Crew
+tz1iijWJnm6ViozjUDrkP7K73voXUo9Pu1sJ|1|Rasterly
+tz1hjGTqC3MZcw9R56FXBpNqQWzeEa7psf7K|1|--
+tz1XV4Khoz3LceAUsDdUbfaosS3YSc8YLqND|1|22UNITS
+tz1Z9NEdYwvbpKU1azEhmdQtYLGmF2TiXV87|1|sudojames
+tz1fXh4cnDd3TF5mD8Q1fNu3BbshUHqSBkDw|1|thunderfury
+tz1RduhavEDpfqgFsdaFttNsJXSAAXgKZPKt|1|ff27b
+tz1SuXiC8rRfT9eQ5ma6JmWUQi7AkggH3ouS|1|orgaZm
+tz1gfXnFvHKKtUQB9nQitzY7SFMTytbiNAMt|1|--
+tz1SWwpTDpvf8PAYnenfsXF9bbUwJRzksJND|1|Art4SkullsGreenVault
+tz1ZYs4fX6wjeF9oYd6N7EoX7hkjZBS4a3GJ|1|Lotus Josephine
+tz1T5eeWhiYBDL5n3LJdVEpiZwW8ym1ExPEQ|2|--
+tz1Q73MnHroCMADATwW3eR6dGKnxfDLZww9w|1|--
+tz1g9BB1L9ce8iMcMthUu5T7G2Jz3DFVo8qQ|1|misterpatient
+tz1UsCnD9KdabYEYpggqXm1YCNFukUNEJvgT|1|Tulip Mania
+tz1iFWDo2c3APctC4jvkAaAbKjadpFcXtHfR|1|asch
+tz1eKR6WSjDTafALicbZM3takAmc4AVQVGB2|1|Noctambul
+tz1dQMjwN85ikpnJ6Tmc1D9mZwBV7opcVkDs|1|Friez-nl
+tz1ZG2u7tvtWMSdxjM45qnzb2dKsuQgjjB1m|1|pucknell.tez
+tz1W9rDX36jzKZWVUzMAiwuEF6pXewPwUd4T|1|FlattestWhite
+tz1S7KSVpfdZjBwi6Xb3XRRVRU7yVyHhSNbi|1|anomaly144
+tz1NZqn4kZvWrvwGPZ6jgMJaypGoC876GjxZ|1|nosugar
+tz2UuQzRQxag5yaaa8t2bPAvdE9yWqv8jrHV|1|Jaali Bandar
+tz1MSjegET9sGZFjWUpB5BgLjBMoZujCmSup|1|siggi
+tz1PoyguZTFRYfHC9j3VYvivNJqKViewkfYm|1|BitttyLabs
+tz1cgsZPKJvHjxd2a3qgGARTyyXFEuTuhkZx|3|Bagel
+tz1R4E6d29XnPDRTE8qSTVLGpGMSqX2hJ1Pt|1|--
+tz1dPeEpEt4rDc5jS3PpCViYmFAb47BxVx7b|1|bitboi_BLOK
+tz1e5kzCeoSSRDhRfZQX1n3zHALQ5jA9Dpr6|1|Phenomena
+tz1iy5scpSWLzsc5bXoFnqGHW7NXY8fB26NB|1|toiminto
+tz1Tf2rba8i7bjbokn7cbpMjfWrtMVKjsUQh|1|l\x19aspide
+tz1NEH2S1rwEkdKctUrW265rY7auoFRNRbiH|1|--
+tz1QEMfacwHcVZ3VRmkDiW43MSwkwKJYqrY8|1|Haiver
+tz1efDMQXbgYrNseGGnnjLN4BzXEpYLZDsYL|1|--
